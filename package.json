@@ -1,0 +1,11 @@
+{
+    "name": "nep-correcao-assistida",
+    "version": "1.0.0",
+    "description": "Sistema de Correção Assistida - Nova Era dos Professores",
+    "engines": {
+          "node": "18.x"
+    },
+    "dependencies": {
+          "@anthropic-ai/sdk": "^0.24.0"
+    }
+}
